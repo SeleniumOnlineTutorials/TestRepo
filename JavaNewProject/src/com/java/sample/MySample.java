@@ -6,6 +6,8 @@ public class MySample {
 		for(int i=1;i<100;i++){
 			System.out.println(i*20);
 		}
+		
+		System.out.println("created and switched to new branch -- vyshnavi");
 	}
 
 }
